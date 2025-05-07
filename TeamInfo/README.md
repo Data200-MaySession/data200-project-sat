@@ -3,12 +3,12 @@
 ## Team Information
 
 ### Team Name
-*Replace this with your team name*
+SAT
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. Sambrid Shrestha (Caspeerr)*
+2. Arambha Yonzan Biswakarma(tashi882)*
+3. Tenzing Dhundup (GitHub Username)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
